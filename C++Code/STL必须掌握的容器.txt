@@ -1,0 +1,33 @@
+容器：
+1.vector容器    扩容的底层原理
+
+2.deque容器     双端队列
+
+3.queue         队列
+
+4.priority_queue  优先队列
+
+5.stack         栈
+
+6.map 和  unordered_map   有序映射和无序映射，包括它们底层的实现
+
+7.set 和  unordered_set   有序集合和无序集合，包括它们的底层实现
+
+8.string    字符串
+
+9.list和 forward_list     双向链表和单向链表  
+
+10.array   普通数组的封装成的一个类，，增加了一些成员函数
+
+算法：
+排序算法：
+sort  ： 快速排序   stable_sort：稳定的排序算法，底层归并排序
+
+partial_sort  ：部分排序，，底层是堆排序
+
+issorted和issorted_until:判断序列是否有序？？两个的区别是返回结果不同
+
+查找算法：
+二分查找：binary_search和lower_bound和upper_bound
+find  find_if    
+
